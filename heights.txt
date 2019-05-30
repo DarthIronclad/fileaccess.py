@@ -1,0 +1,12 @@
+LC	1.80
+NOPE	1.50
+Hunter	1.90
+Water	1.77
+Tester	1.55
+Hacker	2.00
+abc	1.23
+Trident	1.33
+MarcB	1.65
+Flaw	1.84
+Zeus	2.22
+Megathron	1.90
